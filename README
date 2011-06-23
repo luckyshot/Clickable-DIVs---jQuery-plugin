@@ -1,0 +1,15 @@
+
+Clickable DIVs – jQuery plugin
+
+(c) Xavi Esteve 2011 
+
+Dual licensed under the MIT or GPL Version 2 licenses
+
+Clickable DIVs jQuery plugin will convert anything (<div>, <li>, <p>, etc.) into a clickable object. It is a great way to enhance the usability of your website by increasing the clickable space to your users while avoiding extra HTML markup or a somehow tedious re-coding of your website.
+
+- Works with JavaScript disabled too (graceful degradation)
+- Works in all modern, mobile and old browsers: Firefox, Chrome, Opera, Safari, Internet Explorer (including IE6), touch screens (iPhone, iPad, Android), etc.
+- Detects if link needs to be opened in a new page or the same one
+- 1 line of code, easy to install (paste the code and add click class to the div)
+- Works with div, li, p, h1 or any other HTML element
+- This small plugin is being used in xaviesteve.com
