@@ -1,0 +1,2 @@
+/* Clickable divs - Copyright Xavi Esteve 2011 Dual licensed under the MIT or GPL Version 2 licenses. http://xaviesteve.com/clickable-divs-jquery-plugin */
+	$('.click').css("cursor","pointer").click(function(){var link=$(this).find('a:first');var linkhref=link.attr('href');if(link.attr('target')){var newWindow=window.open(linkhref,link.attr('target'));newWindow.focus()}else{window.location=linkhref}return false});
